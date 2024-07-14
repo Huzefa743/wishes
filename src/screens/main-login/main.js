@@ -16,7 +16,7 @@ const MainPage = () => {
     e.preventDefault();
     if (password === 'KLM63n6M2/Ro+/cls+17Hg==') {
       navigate('/KLM63n6M2/Ro+/cls+17Hg==');
-    } else if (password === 'C40KETpfA2riog0xwWYB0A') {
+    } else if (password === 'C40KETpfA2riog0xwWYB0A==') {
       navigate('/C40KETpfA2riog0xwWYB0A=='); //arpita
     } else if (password === 'zWbuOYt4JdUvkJoAmYQrOg==') {
       navigate('/zWbuOYt4JdUvkJoAmYQrOg=='); //preeti

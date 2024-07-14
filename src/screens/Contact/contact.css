@@ -1,0 +1,71 @@
+
+
+
+
+.contact-heading-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  }
+  
+  .contact-text {
+    margin: 0; /* Remove default margin */
+    font-size: 45px;
+    font-weight: 700;
+  }
+  
+ 
+ 
+ /* -------------------------media query-------------- */
+     /* Media queries for different screen sizes */
+     @media (max-width: 576px) {
+         .main-container{
+             margin-left: 0px;
+             margin-right: 0px;
+             margin-top: 30px !important;
+         }
+          
+     }
+ 
+     @media (min-width: 577px) and (max-width: 768px) {
+   
+         .main-container{
+             margin-left: 0px;
+             margin-right: 0px;
+         }
+     }
+ 
+     @media (min-width: 769px) and (max-width: 992px) {
+       /* Tablets and small laptops */
+       .main-container{
+         margin-left: 100px !important;
+         margin-right: 100px !important;
+     }
+        
+     }
+ 
+     @media (min-width: 993px) and (max-width: 1200px) {
+       /* Larger laptops and desktops */
+       .main-container{
+         margin-left: 50px !important;
+         margin-right: 50px !important;
+     }
+      
+     }
+ 
+     @media (min-width: 1201px) and (max-width: 1440px) {
+       /* Wider screens */
+       .main-container{
+         margin-left: 0px !important;
+         margin-right: 0px !important;
+     }
+     }
+ 
+     @media (min-width: 1441px) {
+       /* 4K and larger screens */
+       .main-container{
+         margin-left: 0px !important;
+         margin-right: 0px !important;
+     }
+     }

@@ -25,7 +25,7 @@ const Page13 = () => {
       </video>
       <div className="content" style={{ padding: '5%' }}>
       <h1 style={{ fontSize: '1.5em', marginBottom: '5%' }}>
-      Hello, <span style={{ color: 'red' }}>Aishwarya</span>! 👋
+      Hello, <span style={{ color: 'red' }}>Syed</span>! 👋
 </h1>
 <p>
 We couldn't get much task to work together but whatver I could understand you are such a hard working and dedicated person I guess you just need a correct path and guidance is requried what I observed through out the time, i wish i could get more time to work with you but its happen we have to go with the nature flow.

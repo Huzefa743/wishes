@@ -20,7 +20,7 @@ const MainPage = () => {
       navigate('/C40KETpfA2riog0xwWYB0A=='); //arpita
     } else if (password === 'zWbuOYt4JdUvkJoAmYQrOg==') {
       navigate('/zWbuOYt4JdUvkJoAmYQrOg=='); //preeti
-    }else if (password === 'zWbuOYt4JdUvkJoAmYQrOg==') {
+    }else if (password === 'JLhhH/zGoxFTyuPWm/8vVw==') {
       navigate('/JLhhH/zGoxFTyuPWm/8vVw==');  //rajashree
     }else if (password === 'XSd2RZEe/nvYNUCkiJsG/Q==') { //shyla
       navigate('/XSd2RZEe/nvYNUCkiJsG/Q==');

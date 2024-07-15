@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bd71dcbb.css",
-    "main.js": "/static/js/main.96aad3ff.js",
+    "main.js": "/static/js/main.b2cdc58c.js",
     "static/css/217.20f19b56.chunk.css": "/static/css/217.20f19b56.chunk.css",
     "static/js/217.3645c132.chunk.js": "/static/js/217.3645c132.chunk.js",
     "static/css/574.46a8169f.chunk.css": "/static/css/574.46a8169f.chunk.css",
@@ -67,7 +67,7 @@
     "index.html": "/index.html",
     "static/media/icons8-gmail.svg": "/static/media/icons8-gmail.e1bc2ceb745debf9361ad2160a79823a.svg",
     "main.bd71dcbb.css.map": "/static/css/main.bd71dcbb.css.map",
-    "main.96aad3ff.js.map": "/static/js/main.96aad3ff.js.map",
+    "main.b2cdc58c.js.map": "/static/js/main.b2cdc58c.js.map",
     "217.20f19b56.chunk.css.map": "/static/css/217.20f19b56.chunk.css.map",
     "217.3645c132.chunk.js.map": "/static/js/217.3645c132.chunk.js.map",
     "574.46a8169f.chunk.css.map": "/static/css/574.46a8169f.chunk.css.map",
@@ -97,6 +97,6 @@
   },
   "entrypoints": [
     "static/css/main.bd71dcbb.css",
-    "static/js/main.96aad3ff.js"
+    "static/js/main.b2cdc58c.js"
   ]
 }

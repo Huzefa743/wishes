@@ -32,7 +32,7 @@ function App() {
                 {/* public routes */}
                 <Route path="/" element={ <MainPage/>} />
                 <Route path="/KLM63n6M2/Ro+/cls+17Hg==" element={ <Page1/>} /> //bibhuti
-                <Route path="/C40KETpfA2riog0xwWYB0A=" element={ <Page2/>} /> //arpita 
+                <Route path="/C40KETpfA2riog0xwWYB0A==" element={ <Page2/>} /> //arpita 
                 <Route path="/zWbuOYt4JdUvkJoAmYQrOg==" element={ <Page3/>} /> //preeti
                 <Route path="/JLhhH/zGoxFTyuPWm/8vVw==" element={ <Page4/>} /> //rajasree
                 <Route path="/XSd2RZEe/nvYNUCkiJsG/Q==" element={ <Page5/>} /> //shyla

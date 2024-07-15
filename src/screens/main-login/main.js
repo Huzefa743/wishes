@@ -1,3 +1,4 @@
+
 import React, { useRef, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import './MainPage.css'; // For custom styles and animations
@@ -16,10 +17,10 @@ const MainPage = () => {
     e.preventDefault();
     if (password === 'KLM63n6M2/Ro+/cls+17Hg==') {
       navigate('/KLM63n6M2/Ro+/cls+17Hg==');
-    } else if (password === 'C40KETpfA2riog0xwWYB0A==') {
-      navigate('/C40KETpfA2riog0xwWYB0A=='); //arpita
-    } else if (password === 'zWbuOYt4JdUvkJoAmYQrOg==') {
-      navigate('/zWbuOYt4JdUvkJoAmYQrOg=='); //preeti
+    } else if (password === 'CFr0mOHA1jmHWvXbWDwh2w==') {
+      navigate('/CFr0mOHA1jmHWvXbWDwh2w=='); //arpita
+    } else if (password === 'JI7ARZUzc+WPgg7jQuJLTA==') {
+      navigate('/JI7ARZUzc+WPgg7jQuJLTA=='); //preeti
     }else if (password === 'JLhhH/zGoxFTyuPWm/8vVw==') {
       navigate('/JLhhH/zGoxFTyuPWm/8vVw==');  //rajashree
     }else if (password === 'XSd2RZEe/nvYNUCkiJsG/Q==') { //shyla
